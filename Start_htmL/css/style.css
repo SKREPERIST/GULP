@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  /* font-family: 'Bebas';
+  font-size: 16px;
+  color: #000; */
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.container {
+  /* max-width: 960px; */
+  margin: 0 auto;
+  /* padding: 0 10px; */
+}
